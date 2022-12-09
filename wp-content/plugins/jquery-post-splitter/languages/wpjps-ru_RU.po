@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-18 11:09+0500\n"
+"PO-Revision-Date: 2020-11-18 11:23+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: pro\n"
+
+#: inc/jps-core-admin.php:97
+msgid "You can select a different navigation type for each post."
+msgstr "Вы можете выбрать разные типы навигации для каждой публикации."
+
+#: inc/jps-core-admin.php:97
+msgid "This setting will override the default"
+msgstr "Этот параметр заменит значение по умолчанию"
+
+#: inc/jps-core-admin.php:97
+msgid "settings"
+msgstr "настройки"
+
+#: inc/jps-core-admin.php:148 inc/jps-core-admin.php:184
+#: inc/jps-core-admin.php:394
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/jps-core-admin.php:214 inc/jps-functions-inner.php:183
+msgid "Sorry, your nonce did not verify."
+msgstr "К сожалению, ваш одноразовый номер не подтвержден."
+
+#: inc/jps-core-admin.php:267 inc/jps-core-admin.php:414
+msgid "Go Premium"
+msgstr "Перейти Премиум"
+
+#: inc/jps-core-admin.php:269
+msgid "Click here to preview"
+msgstr "Нажмите здесь, чтобы просмотреть"
+
+#: inc/jps-core-admin.php:296
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/jps-core-admin.php:310 inc/jps-core-admin.php:314
+msgid "Premium"
+msgstr "Премиум"
+
+#: inc/jps-core-admin.php:314 inc/jps-core-front.php:78
+#: inc/jps-core-front.php:268 inc/jps-settings.php:170
+msgid "Page Refresh"
+msgstr "Обновление страницы"
+
+#: inc/jps-core-admin.php:469
+msgid "Are you sure, you want to clear"
+msgstr "Вы уверены, что хотите очистить"
+
+#: inc/jps-core-admin.php:469 inc/jps-core-admin.php:470
+#: inc/jps-core-admin.php:471 inc/jps-settings.php:65 inc/jps-settings.php:666
+msgid "or"
+msgstr "или"
+
+#: inc/jps-core-admin.php:469 inc/jps-functions-inner.php:72
+#: inc/jps-functions-inner.php:93
+msgid "tags"
+msgstr "теги"
+
+#: inc/jps-core-admin.php:469
+msgid "This action cannot be reverted."
+msgstr "Это действие нельзя отменить."
+
+#: inc/jps-core-admin.php:470
+msgid "No post has"
+msgstr "Нет сообщений"
+
+#: inc/jps-core-admin.php:470 inc/jps-core-admin.php:471
+msgid "tag."
+msgstr "тег."
+
+#: inc/jps-core-admin.php:471
+msgid "No page has"
+msgstr "На странице нет"
+
+#: inc/jps-core-admin.php:472
+msgid "All posts are cleared successfully."
+msgstr "Все сообщения успешно удалены."
+
+#: inc/jps-core-admin.php:473
+msgid "All pages are cleared successfully."
+msgstr "Все страницы успешно очищены."
+
+#: inc/jps-core-admin.php:474
+msgid "Are you sure, you want to reset styles?"
+msgstr "Вы уверены, что хотите сбросить стили?"
+
+#: inc/jps-core-front.php:104
+msgid "View as Slideshow"
+msgstr "Просмотреть как слайд-шоу"
+
+#: inc/jps-core-front.php:430 inc/jps-functions-inner.php:332 index.php:104
+#: pro/jps-core-premium.php:319
+msgid "Next"
+msgstr "следующий"
+
+#: inc/jps-core-front.php:724
+msgid "View Full Post"
+msgstr "Посмотреть сообщение полностью"
+
+#: inc/jps-core-front.php:868 inc/split-buttons.php:46
+msgid "Insert Next Page Tag"
+msgstr "Вставить тег следующей страницы"
+
+#: inc/jps-functions-inner.php:61
+msgid "Posts"
+msgstr "Сообщения"
+
+#: inc/jps-functions-inner.php:62
+msgid "Clean Posts"
+msgstr "Чистые сообщения"
+
+#: inc/jps-functions-inner.php:72 inc/jps-functions-inner.php:93
+msgid "Total "
+msgstr "Общее "
+
+#: inc/jps-functions-inner.php:72
+msgid "All posts having these"
+msgstr "Все сообщения с этим"
+
+#: inc/jps-functions-inner.php:82
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/jps-functions-inner.php:83
+msgid "Clean Pages"
+msgstr "Чистые страницы"
+
+#: inc/jps-functions-inner.php:93
+msgid "All pages having these"
+msgstr "Все страницы с этими"
+
+#: inc/jps-functions-inner.php:125
+msgid "Do you want to uninstall this plugin?"
+msgstr "Вы хотите удалить этот плагин?"
+
+#: inc/jps-functions-inner.php:125
+msgid "You may clean your posts from"
+msgstr "Вы можете очистить свои сообщения от"
+
+#: inc/jps-functions-inner.php:125
+msgid "tags."
+msgstr "теги."
+
+#: inc/jps-functions-inner.php:140
+msgid "Before you proceed, take a backup of current database version."
+msgstr ""
+"Прежде чем продолжить, сделайте резервную копию текущей версии базы данных."
+
+#: inc/jps-functions-inner.php:237
+msgid "Invalid Style"
+msgstr "Неверный стиль"
+
+#: inc/jps-functions-inner.php:269 inc/jps-settings.php:55
+msgid "Customization"
+msgstr "Настройка"
+
+#: inc/jps-functions-inner.php:269
+msgid "Enable"
+msgstr "включить"
+
+#: inc/jps-functions-inner.php:269
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/jps-functions-inner.php:274
+msgid "If unchecked, customization will be ignored."
+msgstr "Если этот флажок не установлен, настройка игнорируется."
+
+#: inc/jps-functions-inner.php:292
+msgid "Styles"
+msgstr "Стили"
+
+#: inc/jps-functions-inner.php:307
+msgid "Loading"
+msgstr "Загрузка"
+
+#: inc/jps-functions-inner.php:321
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: inc/jps-functions-inner.php:329 index.php:105 pro/jps-core-premium.php:318
+msgid "Prev"
+msgstr "Предыдущая"
+
+#: inc/jps-functions-inner.php:335
+msgid "Of"
+msgstr "Из"
+
+#: inc/jps-functions-inner.php:348 inc/jps-functions-inner.php:350
+msgid "Reset Selected"
+msgstr "Сбросить выбранное"
+
+#: inc/jps-functions-inner.php:349 inc/jps-functions-inner.php:351
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: inc/jps-functions-inner.php:367
+msgid "Link"
+msgstr "Ссылка на сайт"
+
+#: inc/jps-functions-inner.php:373
+msgid "Hover"
+msgstr "Парение"
+
+#: inc/jps-functions-inner.php:383
+msgid "Background"
+msgstr "Задний план"
+
+#: inc/jps-functions-inner.php:407
+msgid "Color"
+msgstr "цвет"
+
+#: inc/jps-functions-inner.php:434
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: inc/jps-functions-inner.php:459
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/jps-functions-inner.php:483
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/jps-functions-inner.php:525
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/jps-settings.php:46
+msgid "Options"
+msgstr "Параметры"
+
+#: inc/jps-settings.php:49
+msgid "Click here to download pro version"
+msgstr "Нажмите здесь, чтобы скачать про версию"
+
+#: inc/jps-settings.php:49
+msgid "Already a Pro Member?"
+msgstr "Уже являетесь профессиональным участником?"
+
+#: inc/jps-settings.php:53
+msgid "General"
+msgstr "Генеральная"
+
+#: inc/jps-settings.php:54
+msgid "Developer Mode"
+msgstr "Режим разработчика"
+
+#: inc/jps-settings.php:56
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: inc/jps-settings.php:65
+msgid "You're using"
+msgstr "Вы используете"
+
+#: inc/jps-settings.php:65
+msgid "in"
+msgstr "в"
+
+#: inc/jps-settings.php:65 inc/jps-settings.php:666
+msgid "posts"
+msgstr "сообщения"
+
+#: inc/jps-settings.php:65
+msgid "and"
+msgstr "а также"
+
+#: inc/jps-settings.php:65
+msgid "Do you want to implement the patch now?"
+msgstr "Вы хотите внедрить патч сейчас?"
+
+#: inc/jps-settings.php:65
+msgid "It will convert"
+msgstr "Он преобразует"
+
+#: inc/jps-settings.php:65
+msgid "to"
+msgstr "к"
+
+#: inc/jps-settings.php:65
+msgid "and this plugin will work fine for these"
+msgstr "и этот плагин отлично подойдет для этих"
+
+#: inc/jps-settings.php:65
+msgid "as well"
+msgstr "также"
+
+#: inc/jps-settings.php:66
+msgid "Click here to Apply Patch"
+msgstr "Нажмите здесь, чтобы применить патч"
+
+#: inc/jps-settings.php:106
+msgid "Implementation"
+msgstr "Реализация"
+
+#: inc/jps-settings.php:136
+msgid "Use this tag"
+msgstr "Используйте этот тег"
+
+#: inc/jps-settings.php:136
+msgid "to split the post in parts"
+msgstr "разделить пост на части"
+
+#: inc/jps-settings.php:137
+msgid "Click here"
+msgstr "кликните сюда"
+
+#: inc/jps-settings.php:137
+msgid "to download the sample post"
+msgstr "скачать образец сообщения"
+
+#: inc/jps-settings.php:143
+msgid "Disable default post navigation"
+msgstr "Отключить навигацию по сообщениям по умолчанию"
+
+#: inc/jps-settings.php:146
+msgid ""
+"If unchecked, theme's default post navigation will be used, instead of "
+"Next , Previous"
+msgstr ""
+"Если этот флажок не установлен, будет использоваться навигация по "
+"сообщениям темы по умолчанию вместо «Далее», «Назад»"
+
+#: inc/jps-settings.php:154
+msgid "JavaScript Function on Slide"
+msgstr "Функция JavaScript на слайде"
+
+#: inc/jps-settings.php:160
+msgid "Try this"
+msgstr "Попробуй это"
+
+#: inc/jps-settings.php:161
+msgid "Results"
+msgstr "Полученные результаты"
+
+#: inc/jps-settings.php:172
+msgid "Prerender Next Page/Content"
+msgstr "Предварительная обработка следующей страницы / содержимого"
+
+#: inc/jps-settings.php:175
+msgid "If checked, Next Page will be rendered behind the current page."
+msgstr ""
+"Если этот флажок установлен, следующая страница будет отображаться позади "
+"текущей страницы."
+
+#: inc/jps-settings.php:181
+msgid "Prefetch Next Page/Content"
+msgstr "Предварительная загрузка следующей страницы / содержимого"
+
+#: inc/jps-settings.php:184
+msgid ""
+"If checked, Next Page Resources will be prefetched on behind the current "
+"page."
+msgstr ""
+"Если этот флажок установлен, ресурсы следующей страницы будут "
+"предварительно загружаться за текущей страницей."
+
+#: inc/jps-settings.php:198
+msgid "Navigation Position"
+msgstr "Позиция навигации"
+
+#: inc/jps-settings.php:214 inc/jps-settings.php:293
+msgid "Top"
+msgstr "верхний"
+
+#: inc/jps-settings.php:218 inc/jps-settings.php:297
+msgid "Bottom"
+msgstr "Дно"
+
+#: inc/jps-settings.php:222 inc/jps-settings.php:301
+msgid "Both"
+msgstr "И то и другое"
+
+#: inc/jps-settings.php:240
+msgid "Use styles?"
+msgstr "Использовать стили?"
+
+#: inc/jps-settings.php:245
+msgid "If unchecked, no styles will be added."
+msgstr "Если этот флажок не установлен, стили добавляться не будут."
+
+#: inc/jps-settings.php:277
+msgid "Count"
+msgstr "Считать"
+
+#: inc/jps-settings.php:277 index.php:106
+msgid "of"
+msgstr "из"
+
+#: inc/jps-settings.php:277
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/jps-settings.php:305
+msgid "Do Not Display"
+msgstr "Не отображать"
+
+#: inc/jps-settings.php:326
+msgid "Display Post Headings"
+msgstr "Отображение заголовков сообщений"
+
+#: inc/jps-settings.php:328
+msgid "It will display post sub-heading instead of"
+msgstr "Будет отображаться подзаголовок сообщения вместо"
+
+#: inc/jps-settings.php:329
+msgid "will be considered as sub-heading inside your content"
+msgstr "будет рассматриваться как подзаголовок внутри вашего контента"
+
+#: inc/jps-settings.php:332
+msgid "Display Left Navigation"
+msgstr "Показать левую навигацию"
+
+#: inc/jps-settings.php:334
+msgid "It will display post sub-heading in bullets."
+msgstr "Подзаголовок сообщения будет отображаться маркерами."
+
+#: inc/jps-settings.php:348 inc/jps-settings.php:386
+msgid "Custom HTML and/or Styles"
+msgstr "Пользовательский HTML и / или стили"
+
+#: inc/jps-settings.php:348
+msgid "Above Post"
+msgstr "Над сообщением"
+
+#: inc/jps-settings.php:386
+msgid "Below Post"
+msgstr "Ниже сообщения"
+
+#: inc/jps-settings.php:419
+msgid "code"
+msgstr "код"
+
+#: inc/jps-settings.php:419
+msgid "Beta"
+msgstr "Бета"
+
+#: inc/jps-settings.php:422 inc/jps-settings.php:426
+msgid "Before"
+msgstr "Перед"
+
+#: inc/jps-settings.php:424 inc/jps-settings.php:428
+msgid "After"
+msgstr "После"
+
+#: inc/jps-settings.php:431
+msgid "Example"
+msgstr "пример"
+
+#: inc/jps-settings.php:431
+msgid "Note: No tags, just attributes."
+msgstr "Примечание: без тегов, только атрибуты."
+
+#: inc/jps-settings.php:437
+msgid "Additional Settings"
+msgstr "Дополнительные настройки"
+
+#: inc/jps-settings.php:437 inc/jps-settings.php:619 inc/jps-settings.php:672
+msgid "Video Tutorial"
+msgstr "Видеоурок"
+
+#: inc/jps-settings.php:438
+msgid "Hide Settings"
+msgstr "Скрыть настройки"
+
+#: inc/jps-settings.php:453
+msgid "titles as navigation"
+msgstr "заголовки как навигация"
+
+#: inc/jps-settings.php:460
+msgid "Want to use heading tag"
+msgstr "Хотите использовать тег заголовка"
+
+#: inc/jps-settings.php:460
+msgid "as titles to navigate instead of"
+msgstr "в качестве заголовков для навигации вместо"
+
+#: inc/jps-settings.php:477
+msgid "Display link to"
+msgstr "Показать ссылку на"
+
+#: inc/jps-settings.php:477 inc/jps-settings.php:489
+#: pro/jps-core-premium.php:250
+msgid "View"
+msgstr "Посмотреть"
+
+#: inc/jps-settings.php:489
+msgid "If unchecked, the"
+msgstr "Если не отмечено флажком,"
+
+#: inc/jps-settings.php:489
+msgid "link will not be displayed"
+msgstr "ссылка не будет отображаться"
+
+#: inc/jps-settings.php:509
+msgid "Trick"
+msgstr "Уловка"
+
+#: inc/jps-settings.php:521
+msgid "Display full content on first page as hidden?"
+msgstr "Показывать полный контент на первой странице как скрытый?"
+
+#: inc/jps-settings.php:540
+msgid "Loop slides?"
+msgstr "Слайды петли?"
+
+#: inc/jps-settings.php:552
+msgid "Creates an infinite loop of the slides."
+msgstr "Создает бесконечный цикл слайдов."
+
+#: inc/jps-settings.php:573 inc/jps-settings.php:585
+msgid "Insert"
+msgstr "Вставить"
+
+#: inc/jps-settings.php:573
+msgid "with each"
+msgstr "с каждым"
+
+#: inc/jps-settings.php:585
+msgid "for each"
+msgstr "для каждого"
+
+#: inc/jps-settings.php:604
+msgid "Scroll to top of page after"
+msgstr "Прокрутите к началу страницы после"
+
+#: inc/jps-settings.php:604
+msgid "load"
+msgstr "грузить"
+
+#: inc/jps-settings.php:616
+msgid "Scrolls up to the top of the page after each"
+msgstr "Прокручивается вверх после каждого"
+
+#: inc/jps-settings.php:616
+msgid "loads"
+msgstr "грузы"
+
+#: inc/jps-settings.php:618 inc/jps-settings.php:619
+msgid "e.g."
+msgstr "например"
+
+#: inc/jps-settings.php:619
+msgid "Fastest"
+msgstr "Самый быстрый"
+
+#: inc/jps-settings.php:619
+msgid "Slow"
+msgstr "Медленный"
+
+#: inc/jps-settings.php:619
+msgid "or greater value."
+msgstr "или большее значение."
+
+#: inc/jps-settings.php:649 inc/jps-settings.php:695
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: inc/jps-settings.php:666
+msgid "Want to combine different"
+msgstr "Хотите совместить разные"
+
+#: inc/jps-settings.php:666
+msgid "into one"
+msgstr "в один"
+
+#: inc/jps-settings.php:666
+msgid "Use"
+msgstr "Использовать"
+
+#: inc/jps-settings.php:666
+msgid "shortcodes"
+msgstr "шорткоды"
+
+#: inc/jps-settings.php:666
+msgid "with"
+msgstr "с участием"
+
+#: inc/jps-settings.php:666
+msgid "page/post"
+msgstr "страница / сообщение"
+
+#: inc/jps-settings.php:666
+msgid "as follows"
+msgstr "следующим образом"
+
+#: inc/jps-settings.php:670
+msgid "Instructions: Replace"
+msgstr "Инструкции: Заменить"
+
+#: inc/jps-settings.php:670
+msgid "with page/post IDs you want to use as a chunk"
+msgstr ""
+"с идентификаторами страниц / сообщений, которые вы хотите использовать в "
+"качестве чанка"
+
+#: inc/jps-settings.php:671
+msgid "Note"
+msgstr "Заметка"
+
+#: inc/jps-settings.php:671
+msgid "are included in premium version"
+msgstr "включены в премиум-версию"
+
+#: inc/jps-settings.php:691
+msgid ""
+"You may restrict asset (css/js) files loading by entering query strings on "
+"separate lines:"
+msgstr ""
+"Вы можете ограничить загрузку файлов ресурсов (css / js), введя строки "
+"запроса в отдельные строки:"
+
+#: inc/jps-settings.php:698
+msgid "Example URL:"
+msgstr "Пример URL:"
+
+#: inc/jps-settings.php:699
+msgid "Pick a query string from the following and enter in textarea above:"
+msgstr ""
+"Выберите строку запроса из следующего и введите в текстовое поле выше:"
+
+#: inc/jps-settings.php:706
+msgid "Note:"
+msgstr "Заметка:"
+
+#: inc/jps-settings.php:706
+msgid ""
+"One query string per line and beginning with a forward slash will make it "
+"unique."
+msgstr ""
+"Одна строка запроса в строке и начало с косой черты делают ее уникальной."
+
+#: inc/jps-settings.php:731
+msgid "This is a premium feature."
+msgstr "Это премиум-функция."
+
+#: inc/split-buttons.php:39
+msgid "page"
+msgstr "страница"
+
+#: inc/split-buttons.php:44
+msgid "next page"
+msgstr "следущая страница"
+
+#: pro/jps-core-premium.php:250
+msgid "Full Post"
+msgstr "Полный пост"
+
+#: pro/jps-core-premium.php:288
+msgid "Navigation Style"
+msgstr "Стиль навигации"
+
+#: pro/jps-core-premium.php:313
+msgid "Navigation Captions"
+msgstr "Субтитры навигации"
+
+#: pro/jps-core-premium.php:331
+msgid "Navigation Pages Display"
+msgstr "Отображение страниц навигации"
+
+#: pro/jps-core-premium.php:337
+msgid "Page no."
+msgstr "№ страницы"
+
+#: pro/jps-core-premium.php:696
+msgid "Please activate Automatic Updates plugin to proceed."
+msgstr ""
+"Пожалуйста, активируйте плагин автоматического обновления, чтобы продолжить."

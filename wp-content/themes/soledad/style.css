@@ -17,3 +17,8 @@ Domain Path: /languages
  * Silence is gold
  */
 /* The main css file is located in "themes/soledad/main.css" */
+
+.post-nav-links
+{
+    display: none;
+}

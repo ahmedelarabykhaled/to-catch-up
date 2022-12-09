@@ -1,0 +1,25 @@
+/* CSS Document */
+.jps-wrap-content,
+.jps-wrap-content .jps-the-content,
+.jps-wrap-content .jps-the-content nav.jps-slider-nav,
+.jps-wrap-content .jps-the-content .jps-content {
+	clear: both;
+	width: 100%;
+	float: left;
+	
+}
+.jps-links{
+	text-decoration:none;
+}
+.jps-links.jps-r{
+	float:right;
+}
+.jps-links.jps-l{
+	float:left;
+}
+.jps-wrap-content.jps-jquery .jps-the-content nav.jps-slider-nav{
+	display:block;
+}
+nav.jps-slider-nav.jps-page_refresh p.post-nav-links{
+	display:none;
+}

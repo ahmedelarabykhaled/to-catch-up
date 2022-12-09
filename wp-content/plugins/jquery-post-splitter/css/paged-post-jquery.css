@@ -1,0 +1,103 @@
+/* CSS Document */
+
+
+
+body.page .jps-wrap-content,
+
+
+
+body.single .jps-wrap-content{
+
+
+
+	display:none;
+
+
+
+}
+
+
+
+body.page .jps-wrap-content .jps-prev,
+
+
+
+body.page .jps-wrap-content .jps-next,
+
+
+
+body.single .jps-wrap-content .jps-prev,
+
+
+
+body.single .jps-wrap-content .jps-next{
+
+
+
+	cursor:pointer;
+
+
+
+}
+
+
+
+.jps-fullpost-link.hide{
+
+	display:none;
+
+}
+
+
+.jps-next-wrapper{
+	float:right;
+	text-decoration:none;
+}
+
+.jps-prev-wrapper{
+	float:left;
+	text-decoration:none;
+}
+
+nav.jps-slider-nav {
+	clear: both;
+	width: 100%;
+	float: left;
+	
+}
+
+.jps-slide-count {
+	margin: 0 auto;
+	display: table;
+	float: none;
+	width: auto;
+	text-align: center;
+}
+
+.jps-content{
+	clear:both;
+}
+
+.jps-numbered {
+	width: auto;
+	margin: 0 auto;
+	display: table;
+}
+.jps-numbered > a {
+	float: left;
+	height: 32px;
+	width: 32px;
+	text-decoration: none !important;
+	text-align: center;
+	background-color: rgba(0,0,0,0.03);
+	margin: 0 4px 0 0;
+	font-weight: normal;
+	line-height: 28px;
+	font-size: 16px;
+	cursor:pointer;
+}
+.jps-numbered > a:hover,
+.jps-numbered > a.jps-num-current {
+	text-decoration: underline !important;
+	background-color: rgba(0,0,0,0.1);
+}
