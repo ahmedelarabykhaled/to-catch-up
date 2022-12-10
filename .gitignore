@@ -1,2 +1,5 @@
 wp-config.php
 .htaccess
+wp-content/advanced-cache.php
+wp-content/cache*
+wp-content/w3tc-config*
